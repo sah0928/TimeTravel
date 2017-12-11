@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "69680558483",
+    "firebase_url": "https://timetravel-63222.firebaseio.com",
+    "project_id": "timetravel-63222",
+    "storage_bucket": "timetravel-63222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69680558483:android:205b131018539b28",
+        "android_client_info": {
+          "package_name": "tabbedactivitytest.mobilesw.kau.timetravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69680558483-vhctr3agb0uut6m03n92ms3r4igkfbt5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tabbedactivitytest.mobilesw.kau.timetravel",
+            "certificate_hash": "86498f30c0c4ca007a75f9031f44617c4e29b82b"
+          }
+        },
+        {
+          "client_id": "69680558483-9098jcr2452mr92645abgbc5ntgkjm7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABeJYE_3Wb3A1Rv0Pccb5SCexO1ndbp4o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69680558483-9098jcr2452mr92645abgbc5ntgkjm7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
